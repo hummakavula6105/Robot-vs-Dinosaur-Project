@@ -1,3 +1,5 @@
+from battle_weapon import Weapon
+
 
 class Robot:
 
