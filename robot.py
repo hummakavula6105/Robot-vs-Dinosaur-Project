@@ -6,6 +6,4 @@ class Robot:
     def __init__(self):
         self.name = 'Gary Busey'
         self.health = 80
-        self.weapon = 'John Deere Tractor'
-
-                
+        self.active_weapon = 'John Deere Tractor'
